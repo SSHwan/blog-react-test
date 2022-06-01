@@ -1,3 +1,5 @@
+# 코딩애플 - 2022 리액트 강의
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
